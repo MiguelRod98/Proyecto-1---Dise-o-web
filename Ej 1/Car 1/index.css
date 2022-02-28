@@ -1,0 +1,21 @@
+<style>
+      #principal {
+        border: solid 1px silver;
+        margin: 0 auto;
+        padding: 5 px;
+        width: 80x;
+        backgroud: silver;
+      }
+
+      body{
+
+        background: url(fondo5.jpg);
+        background-size: 100x;
+        background-attachment: fixed;
+        }
+
+        fieldset{
+          margin-bottom: 10px;
+        }
+        
+    </style>
